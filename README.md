@@ -6,7 +6,7 @@
   
 ###
 
-<p align="left">- Procurando oportunidades como desenvolvedor de software.<br>- Procurando oportunidade como analista de dados <br>- Estudante de Análise e Desenvolvimento de Sistemas.<br>- Contate-me em : guilhermyr87@gmail.com</p>
+<p align="left">- Procurando oportunidades como desenvolvedor de software.<br>- Procurando oportunidade como analista de dados <br>- Estudante de Análise e Desenvolvimento de Sistemas.<br>- Contate-me em :davidhlpaula25@gmail.com</p>
 
 
 ###
