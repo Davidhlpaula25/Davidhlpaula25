@@ -21,7 +21,6 @@
 </div>
 
 ###
-###
 
 <h2 align="left">Techs</h2>
 
